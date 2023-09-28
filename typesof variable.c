@@ -1,3 +1,4 @@
+// A simple program to print different typed variables
 #include<stdio.h>
 
 int main(){
