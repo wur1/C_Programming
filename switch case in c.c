@@ -1,5 +1,4 @@
-// switch case in C
-// simple calculator
+// switch case in C: A simple calcultor using switch cases
 #include<stdio.h>
 
 int main(){
