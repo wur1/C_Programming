@@ -1,8 +1,9 @@
+//this C program containsome simple solved  examples
 #include<stdio.h>
  int main(){
- 	//EXAMPLE 1
+ 	//EXAMPLE 1: To print a simple message
  	printf("Assalamoaleikum habibii \n ");
- 	/*EXAMPLE 2
+ 	/*EXAMPLE 2 :To get a number from user and print that number
  	int number;
  	
  	
@@ -12,7 +13,7 @@
  	
  	printf("you entered %d \n", number);
 
- 	//EXAMPLE 3
+ 	//EXAMPLE 3: A simple program to add two numbers
  	
  	int a, b;
  	printf("enter the value of a \n");
@@ -22,7 +23,7 @@
  	int result = a+b;
  	printf("the sum of the two numbers is %d \n", result);
  	
- 	*///EXAMPLE 4
+ 	*///EXAMPLE 4: A simple program to add two numbers.
  	double p, q;
  	printf("enter the numbers:");
  	scanf("%lf %lf", &p, &q);
