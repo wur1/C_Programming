@@ -1,4 +1,4 @@
-//sum of first N numbers
+//A simple C program to find the sum of first N numbers
 #include<stdio.h>
 
 int main(){
